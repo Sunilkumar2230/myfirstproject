@@ -15,4 +15,8 @@ This is a Java-based bus ticket reservation system that connects to a MySQL data
 - MySQL Database
 - A MySQL client (e.g., MySQL Workbench)
 
-**Screenshots:**
+ **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/bus-ticket-reservation.git
+   cd bus-ticket-reservation
