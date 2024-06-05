@@ -15,10 +15,4 @@ This is a Java-based bus ticket reservation system that connects to a MySQL data
 - MySQL Database
 - A MySQL client (e.g., MySQL Workbench)
 
-##Screenshots
-
-- Main Page
-![Screenshot 2024-06-05 110138](https://github.com/Sunilkumar2230/myfirstproject/assets/171160740/960806eb-7d20-486c-9f79-1bb4d581a338)
-
--View Buses
-![Uploading Screenshot 2024-06-05 110206.png…]()
+Screenshots
