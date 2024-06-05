@@ -15,7 +15,7 @@ This is a Java-based bus ticket reservation system that connects to a MySQL data
 - MySQL Database
 - A MySQL client (e.g., MySQL Workbench)
 
-## Prerequisites
+## Screenshots
 
 - Java Development Kit (JDK) 8 or higher
 - MySQL Database
